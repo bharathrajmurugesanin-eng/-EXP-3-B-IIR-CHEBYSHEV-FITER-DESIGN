@@ -45,5 +45,6 @@ disp(a,"a=");
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/62b17a17-7e0a-4eef-bba8-73b7fb0e8265" />
 ## OUTPUT (HPF) : 
 <img width="500" height="300" alt="image" src="https://github.com/user-attachments/assets/85b42ca5-2971-410f-91ea-8baf85c8eef3" />
+
 ## RESULT: 
 A third order Chebyshev Type I high-pass filter was designed with cutoff frequency 1500 Hz and sampling frequency 5000 Hz. The frequency response shows ripple in the passband and sharp attenuation in the stopband.
